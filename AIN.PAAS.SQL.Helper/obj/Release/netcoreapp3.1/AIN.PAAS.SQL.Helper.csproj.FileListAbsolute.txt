@@ -1,0 +1,10 @@
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\bin\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.deps.json
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\bin\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\bin\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.pdb
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\obj\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.csproj.AssemblyReference.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\obj\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\obj\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.AssemblyInfoInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\obj\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.AssemblyInfo.cs
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\obj\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.csproj.CoreCompileInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\obj\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIs\AIN.PAAS.SQL.Helper\obj\Release\netcoreapp3.1\AIN.PAAS.SQL.Helper.pdb

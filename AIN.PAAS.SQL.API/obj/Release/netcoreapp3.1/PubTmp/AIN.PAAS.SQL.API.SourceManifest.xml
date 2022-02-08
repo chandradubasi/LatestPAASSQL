@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.API\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.API\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\AIN.PAAS.SQL.Models.Models.AINDatabaseContext.sql" />
+</sitemanifest>

@@ -1,0 +1,28 @@
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.deps.json
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.pdb
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.csproj.AssemblyReference.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.AssemblyInfoInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.AssemblyInfo.cs
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.pdb
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Models.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Models.pdb
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\SQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.csproj.CopyComplete
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.deps.json
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.pdb
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Helper.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Models.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Helper.pdb
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\bin\Debug\netcoreapp3.1\AIN.PAAS.SQL.Models.pdb
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.csproj.AssemblyReference.cache
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.AssemblyInfoInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.AssemblyInfo.cs
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.csproj.CopyComplete
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\PAAS SQL\clonefromrepo\PAASWithSQL\AIN.PAAS.SQL.InventoryAPIS\AIN.PAAS.SQL.Repository\obj\Debug\netcoreapp3.1\AIN.PAAS.SQL.Repository.pdb

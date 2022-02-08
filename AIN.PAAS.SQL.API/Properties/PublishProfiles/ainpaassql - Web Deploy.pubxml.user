@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARRshnKxhhEayBytAzyAfagAAAAACAAAAAAADZgAAwAAAABAAAADzdJ5skHWxUy09E9lUAPj3AAAAAASAAACgAAAAEAAAAMSZjq/Cd+cqGq6OFn0VkwCAAAAA6PxZpJMPWdXdmXXBVhBGkfXfVGJBiIb/BHpi4O7s58XEaQxnUYnLLi4mHSgqWQXA3rSVh6DJMbNFwcGfbM5CzjZ7pl/kPGsLRs+an1skhSn5vXHOrsafQCq3jXCys8YHf0luexsTxtiKP8NaG2T9rEGTKb+tnO39hYJk+5oo6a4UAAAAEZOM8wHqhVcNKigNDI70gQwsSBo=</EncryptedPassword>
+    <History>True|2022-02-03T07:30:51.0674357Z;True|2022-02-03T09:37:06.3972973+05:30;True|2022-02-02T15:47:29.1455506+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Database">
+      <Value>Data Source=tcp:paasinventoryapi.database.windows.net,1433%3bInitial Catalog=AINMedisynHospitalDB%3bUser Id=aintestuser%40paasinventoryapi%3bPassword=Paassql%401010</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="AIN.PAAS.SQL.Models.Models.AINDatabaseContext">
+      <Value>Data Source=tcp:paasinventoryapi.database.windows.net,1433%3bInitial Catalog=AINMedisynHospitalDB%3bUser Id=aintestuser%40paasinventoryapi%3bPassword=Paassql%401010</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
